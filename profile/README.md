@@ -17,5 +17,4 @@ We develop and run supercomputer code for numerically simulating black holes, ne
 - [SpEC](https://github.com/sxs-collaboration/spec) (members only)
 - Python codes for analyzing simulation outputs
   - [sxs](https://github.com/sxs-collaboration/sxs): read catalog metadata, waveforms, etc.
-  - [catalog_tools](https://github.com/sxs-collaboration/catalog_tools): example usage
   - [gwsurrogate](https://github.com/sxs-collaboration/gwsurrogate): evaluate rapid NR-based waveform surrogate
