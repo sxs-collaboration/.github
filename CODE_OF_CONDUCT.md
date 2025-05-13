@@ -66,7 +66,7 @@ election. The ombudsperson serves a two-year term.
 
 ### Student/Postdoc Advocate
 
-The Student/Postdoc Advocate (currently Masha Okounkova, email
+The Student/Postdoc Advocate (currently Alexandra (Alex) Macedo, email
 *sxs-advocate@black-holes.org*) is someone who will advocate positively
 for the people in the collaboration with less power, specifically high
 school students, undergraduate students, summer REU students, grad
